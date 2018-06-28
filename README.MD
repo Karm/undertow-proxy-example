@@ -1,0 +1,1 @@
+Extracted example on standalone WebSocket upgrade capable proxy used to test httpd mod_proxy_wstunnel capabilities on [JBCS-291](https://issues.jboss.org/browse/JBCS-291?focusedCommentId=13598141&page=com.atlassian.jira.plugin.system.issuetabpanels%3Acomment-tabpanel#comment-13598141).
